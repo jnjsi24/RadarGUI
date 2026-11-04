@@ -4,6 +4,14 @@ RadarGUI is a C# Windows Forms desktop application developed as a college projec
 
 ---
 
+## Project Demo
+
+Watch the [RadarGUI Project Demo](https://drive.google.com/file/d/1c77fJ7dqBLm_28Q_6sNvsq795PiKbQQM/view)
+
+The demonstration showcases the radar visualization interface, sensor scanning, object detection, and motion indication.
+
+---
+
 ## System Architecture
 
 The application acts purely as a graphical front-end data visualizer. It does not control or drive the scanning hardware; it simply processes and maps metrics received via serial communication.
